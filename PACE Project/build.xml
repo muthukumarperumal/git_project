@@ -2,7 +2,7 @@
 <project name="Hello" default="war" basedir=".">
 
 
-	<!-- Define the properties used by the build -->
+	<!-- Define the properties used by the buildss -->
 
 	<property environment="env" />
 	<property name="app.name"      value="hello"/>
@@ -10,6 +10,7 @@
 	<property name="war.dir"     value="war"/>
 	<property name="src.dir"      value="src"/>
 	<property name="web.dir"      value="WebContent"/>
+	
 
 
 	<!-- Define the CLASSPATH -->
